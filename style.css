@@ -1,0 +1,66 @@
+.nav-link{
+    color: rgb(12, 84, 35);
+    font-weight: 500;
+}
+
+.btn:hover{
+    background-color: #e5e7eb;
+}
+.btn{
+    padding-left: 15px;
+    padding-right: 65px;
+    margin-right: 0;
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+.class{
+    
+    padding: 10px;
+    width: 425px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+
+
+}
+
+
+
+
+
+
+#carding img{
+    width: 240px;
+}
+
+.card3{
+    padding: 80px 45px;
+    gap: 10px;
+}
+
+.card-img img{
+    width: 228px;
+}
+
+.card3 img{
+    width: 258px;
+}
+
+
+.woodland img{
+    width: 626px;
+    height: 398px;
+    object-fit: fill;
+}
+
+
+#image img{
+        display: block;
+        max-width: 100%;
+        height: auto;
+}
+
